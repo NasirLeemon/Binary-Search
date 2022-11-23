@@ -35,6 +35,6 @@ function floorAndCeil(arr, target) {
 
 }
 
-console.log(floorAndCeil([10, 20, 30, 40, 50, 60, 70, 80, 90, 100], )); 
+console.log(floorAndCeil([10, 20, 30, 40, 50, 60, 70, 80, 90, 100], 57));
 
 // Problem = if we take 10-19 as target than it will show undefined!
